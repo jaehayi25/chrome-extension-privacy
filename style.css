@@ -1,0 +1,22 @@
+﻿html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+p.heading {
+    font-weight: bold;
+    margin-block-start: 1em;
+}
+
+.centerText {
+    text-align: center;
+}
